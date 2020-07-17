@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SidEzetap1</string>
+    <string name="input_one">Input One</string>
+    <string name="input_two">Input Two</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="input_text">Input one: </string>
+    <string name="input_text_two">Input two: </string>
+</resources>
